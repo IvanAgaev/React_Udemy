@@ -1,0 +1,21 @@
+<svg width="0" height="0" class="hidden">
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 6" id="arrowdown">
+        <path d="M1 1L5 5L9 1" stroke="#141414"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" id="circle">
+        <g id="Point icon 1">
+        <circle id="Ellipse 480" cx="25" cy="25" r="5" fill="url(#paint0_linear_330_16012)"></circle>
+        <path id="Ellipse 491" d="M0.499998 25C0.5 11.469 11.469 0.5 25 0.500002C38.531 0.500003 49.5 11.469 49.5 25C49.5 38.531 38.531 49.5 25 49.5C11.469 49.5 0.499997 38.531 0.499998 25Z" stroke="url(#paint1_linear_330_16012)"></path>
+        </g>
+        <defs>
+            <linearGradient id="paint0_linear_330_16012" x1="25" y1="20" x2="25" y2="30" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#0597F2" stop-opacity="0"></stop>
+                <stop offset="1" stop-color="#0597F2"></stop>
+            </linearGradient>
+            <linearGradient id="paint1_linear_330_16012" x1="25" y1="50" x2="25" y2="1.62913e-06" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#0597F2" stop-opacity="0"></stop>
+                <stop offset="1" stop-color="#0597F2"></stop>
+        </linearGradient>
+        </defs>
+    </symbol>
+</svg>
